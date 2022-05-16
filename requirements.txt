@@ -1,0 +1,13 @@
+flask
+flask-cors
+flask-restful
+flask-jwt-extended
+Flask-SQLAlchemy
+gunicorn
+psycopg2
+paramiko
+cryptography
+python-dotenv
+flask_jwt_extended
+redis
+dotenv
